@@ -1,0 +1,12 @@
+
+#Uçuşların listelendiği kontrol edilir
+*Uçuş liste kontrol
+*"3" saniye bekle
+
+#Ekonomik uçuş seçilir
+*Ekonomik Uçuş seç
+*"3" saniye bekle
+
+#Devam Butonuna tıkla
+*Devam Butonuna tıklanır
+*"3" saniye bekle
